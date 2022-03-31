@@ -35,10 +35,6 @@
 │   ├── cloud-1.pdf\
 │   ├── inception-of-things.pdf\
 │   └── inception.pdf\
-├── Hack\
-│   └── override\
-│       ├── OverRide.iso\
-│       └── override.pdf\
 ├── NORMINETTE.pdf\
 ├── OSI\
 │   ├── netpractice\
